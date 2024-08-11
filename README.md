@@ -1,7 +1,10 @@
 # capstone_3
 Purwadhika JCDSOL - Capstone Project Modul 3
 
-# Dataset Used
+# Important Links
+Video Explanation Link: 
+Google Colab link: https://colab.research.google.com/drive/1GmNG_s_DmAocW6mEvEmMyaZivvoL5vBr?usp=sharing
+Slides Link: https://docs.google.com/presentation/d/1RBbcaUhtuOPiy-wVkmdxGxk3XYn_w75Hu_-AldCP_eo/edit?usp=sharing
 
 # Latar Belakang:
 Pasar real estate di California adalah salah satu yang paling dinamis di Amerika Serikat. Dengan populasi yang terus meningkat dan permintaan perumahan yang tinggi, kemampuan untuk memprediksi harga rumah dengan akurasi tinggi menjadi sangat berharga bagi berbagai pemangku kepentingan termasuk agen real estate, investor, dan pembeli rumah. Prediksi harga rumah yang akurat dapat membantu dalam pengambilan keputusan yang lebih baik, mengidentifikasi peluang investasi, dan mengelola portofolio properti dengan lebih efektif.

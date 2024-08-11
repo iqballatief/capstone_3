@@ -2,7 +2,7 @@
 Purwadhika JCDSOL - Capstone Project Modul 3
 
 # Important Links
-Video Explanation Link: 
+Video Explanation Link: https://youtu.be/TxakWQEPnXI
 Google Colab link: https://colab.research.google.com/drive/1GmNG_s_DmAocW6mEvEmMyaZivvoL5vBr?usp=sharing
 Slides Link: https://docs.google.com/presentation/d/1RBbcaUhtuOPiy-wVkmdxGxk3XYn_w75Hu_-AldCP_eo/edit?usp=sharing
 
